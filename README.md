@@ -1,6 +1,6 @@
 # Fireflies Service
 
-A FastAPI backend application for Fireflies processing and managing messages with OpenAI integration.
+A FastAPI backend application for Fireflies processing and managing messages with OpenAI integration created by [Cy](https://github.com/cyril-deguzman).
 
 ## Prerequisites
 
